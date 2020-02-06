@@ -1,9 +1,9 @@
-from turtle import *
-import time
+# from turtle import *
+# import time
 
 # 1-1 Square Dance
 
-speed(0)
+# speed(0)
 
 # def square(sidelength = 100):
 # 	for i in range(4):
@@ -65,9 +65,30 @@ speed(0)
 
 # spiralStar(60, 5, 5)
 
+# 2-1 Finding the Sum
+
+# def cumulative_sum(num):
+# 	total = 0
+# 	for i in range(1,num + 1):
+# 		total += i
+# 	print(total)
+
+# cumulative_sum(10000)
+
+# 2-2 Finding the Average
+
+# d = [53, 28, 54, 84, 65, 60, 22, 93, 62,
+# 	27, 16, 25, 74, 42, 4, 42, 15, 96, 11, 70, 83, 97, 75]
+
+# def average(list):
+# 	total = 0
+# 	for i in list:
+# 		total += i
+# 	print(total / len(d))
+
+# average(d)
 
 
-time.sleep(5)
 
 
 
